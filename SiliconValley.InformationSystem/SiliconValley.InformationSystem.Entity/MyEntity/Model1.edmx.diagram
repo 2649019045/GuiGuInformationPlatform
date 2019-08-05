@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="a6fe804448724d6fa36e272059736b81" Name="Diagram1">
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.Accdationinformation" Width="1.5" PointX="27" PointY="196.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.AddCourse" Width="1.5" PointX="9.75" PointY="265.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.AdmissArrangement" Width="1.5" PointX="17.75" PointY="151.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.AnswerQuestionBank" Width="1.5" PointX="12.75" PointY="265.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.AnswerQuestionPaper" Width="1.5" PointX="18" PointY="266.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.ApplicationDropout" Width="1.5" PointX="24" PointY="178.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.ApplicationRepair" Width="1.5" PointX="27" PointY="192.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.ApplyForFullMember" Width="1.5" PointX="7.5" PointY="149.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.Assmeetings" Width="1.5" PointX="17.75" PointY="154.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.AttendanceInfo" Width="1.5" PointX="7.5" PointY="152.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.Awardwinningtrainees" Width="1.5" PointX="24" PointY="186.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.BaseDataEnum" Width="1.5" PointX="13.25" PointY="155.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.Basicdat" Width="1.5" PointX="19.5" PointY="203.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.bedroom" Width="1.5" PointX="7.5" PointY="186.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.BeOnDuty" Width="1.5" PointX="13.25" PointY="169.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.BiddingRecord" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.BookInformation" Width="1.5" PointX="29.75" PointY="184.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.Break" Width="1.5" PointX="10.5" PointY="184" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.CancelLeaveApply" Width="1.5" PointX="15.75" PointY="196.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.CandidateInfo" Width="1.5" PointX="27" PointY="200.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.CardRegistration" Width="1.5" PointX="24" PointY="193" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.CDInterview" Width="1.5" PointX="20" PointY="171.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.ChannelStaff" Width="1.5" PointX="7.5" PointY="165.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.ChannelYearPlan" Width="1.5" PointX="9.75" PointY="165.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.Check" Width="1.5" PointX="10.5" PointY="189.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.CheckGoods" Width="1.5" PointX="18.75" PointY="191.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.ChoiceQuestionPaper" Width="1.5" PointX="18" PointY="263.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.ChooseAnswerSheet" Width="1.5" PointX="29.25" PointY="231.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.Classactivities" Width="1.5" PointX="17.75" PointY="157.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.ClassDynamics" Width="1.5" PointX="26.25" PointY="212.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.ClassMeeting" Width="1.5" PointX="9.75" PointY="273.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.ClassMembers" Width="1.5" PointX="30" PointY="196.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.Classroom" Width="1.5" PointX="8.25" PointY="159.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.Classroomequipment" Width="1.5" PointX="10.5" PointY="155.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.ClassSchedule" Width="1.5" PointX="15.5" PointY="155.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.ClassStudyGroup" Width="1.5" PointX="24" PointY="199.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.ClassTeacher" Width="1.5" PointX="9.75" PointY="262" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.ClassTeacherKeep" Width="1.5" PointX="9.75" PointY="201.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.Consult" Width="1.5" PointX="9.75" PointY="173.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.ConsultTeacher" Width="1.5" PointX="7.5" PointY="173.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.ConversationRecord" Width="1.5" PointX="7.5" PointY="176.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.ConvertCourse" Width="1.5" PointX="12.75" PointY="260.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.CooperaEnterprises" Width="1.5" PointX="17" PointY="176.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.Costlist" Width="1.5" PointX="15.5" PointY="152.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.CourseTime" Width="1.5" PointX="13.5" PointY="257" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.CourseType" Width="1.5" PointX="12" PointY="213" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.Curriculum" Width="1.5" PointX="14.25" PointY="211.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.Debit" Width="1.5" PointX="7.5" PointY="179.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.Department" Width="1.5" PointX="0.75" PointY="190.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.Detailedmaintenance" Width="1.5" PointX="16.75" PointY="206.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.Detailedpayment" Width="1.5" PointX="17.75" PointY="161.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.DetailedStudentIn" Width="1.5" PointX="24" PointY="202.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.Detailsofacquisition" Width="1.5" PointX="26.25" PointY="179" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.DetailsofCharges" Width="1.5" PointX="24.75" PointY="182.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.Detailsofconsignments" Width="1.5" PointX="29.25" PointY="179" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.Dev_Project" Width="1.5" PointX="2.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.Dev_ProjectType" Width="1.5" PointX="2.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.DimissionApply" Width="1.5" PointX="7.5" PointY="182.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.DisposalofDiscipline" Width="1.5" PointX="24" PointY="206.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.DormInformation" Width="1.5" PointX="5.25" PointY="194.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.DormitoryCharging" Width="1.5" PointX="15.5" PointY="200.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.Dormitoryfloor" Width="1.5" PointX="3" PointY="193.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.Dormitoryhygiene" Width="1.5" PointX="9.75" PointY="213.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.DormitoryMaintenance" Width="1.5" PointX="7.5" PointY="206.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.Electricitytarifftype" Width="1.5" PointX="13.25" PointY="217.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.EmpClass" Width="1.5" PointX="17.75" PointY="179.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.EmployedStudent" Width="1.5" PointX="37.5" PointY="203.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.EmployeeArea" Width="1.5" PointX="12.75" PointY="165.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.EmployeesInfo" Width="1.5" PointX="5.25" PointY="179.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.EmploymentAreas" Width="1.5" PointX="10.25" PointY="169.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.EmploymentStaff" Width="1.5" PointX="12.5" PointY="179.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.EmploySituation" Width="1.5" PointX="35.25" PointY="204.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.EmplSalaryEmbody" Width="1.5" PointX="7.5" PointY="190.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.EmpQuarterClass" Width="1.5" PointX="20.75" PointY="157.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.EmpStaffAndStu" Width="1.5" PointX="18.75" PointY="183.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.EmpTransaction" Width="1.5" PointX="7.5" PointY="194.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.EnroExamination" Width="1.5" PointX="24" PointY="209.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.Enrollment" Width="1.5" PointX="27" PointY="204.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.EnterpriseInfo" Width="1.5" PointX="14.75" PointY="175.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.EntSpee" Width="1.5" PointX="20" PointY="176.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.Equipment" Width="1.5" PointX="8.25" PointY="138.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.Examination" Width="1.5" PointX="24.75" PointY="166.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.ExaminationPaper" Width="1.5" PointX="22.5" PointY="166.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.ExaminationRoom" Width="1.5" PointX="12.75" PointY="201.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.ExamRoomDistributed" Width="1.5" PointX="29.25" PointY="207" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.ExamType" Width="1.5" PointX="20.25" PointY="165.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.Fiveroutines" Width="1.5" PointX="9.75" PointY="209" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.FollwingInfo" Width="1.5" PointX="12" PointY="173.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.Goods" Width="1.5" PointX="9" PointY="142.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.GoodSkill" Width="1.5" PointX="9.75" PointY="270.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.GoodsProvide" Width="1.5" PointX="13.5" PointY="184.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.GoodsType" Width="1.5" PointX="9" PointY="145.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.Grand" Width="1.5" PointX="11" PointY="159.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.GroupManagement" Width="1.5" PointX="17.75" PointY="164.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.Groupmembers" Width="1.5" PointX="29.25" PointY="200.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.HeadClass" Width="1.5" PointX="9.75" PointY="197.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.Headmaster" Width="1.5" PointX="7.5" PointY="201.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.HomeWorkFinishRate" Width="1.5" PointX="24" PointY="230.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.InStock" Width="1.5" PointX="21.75" PointY="187.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.InStockGoods" Width="1.5" PointX="27" PointY="187.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.InstructorList" Width="1.5" PointX="7.5" PointY="216.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.Instructorsonduty" Width="1.5" PointX="9.75" PointY="218.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.InterviewRecordsof" Width="1.5" PointX="12.75" PointY="197.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.InterviewStudents" Width="1.5" PointX="24" PointY="219.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.IsGoodOrBad" Width="1.5" PointX="18.75" PointY="195.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.JobTransferApply" Width="1.5" PointX="7.5" PointY="212.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.LateEntryandExit" Width="1.5" PointX="24" PointY="223.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.LatesubmieCords" Width="1.5" PointX="24" PointY="226.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.LeaveRequest" Width="1.5" PointX="13.5" PointY="188.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.LeaveType" Width="1.5" PointX="11.25" PointY="206.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.MachineTestQuestionPaper" Width="1.5" PointX="18" PointY="270.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.MachTestQuesBank" Width="1.5" PointX="12.75" PointY="269.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.MarketChair" Width="1.5" PointX="7.5" PointY="222.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.MaterialPriceList" Width="1.5" PointX="30.75" PointY="212.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.Members" Width="1.5" PointX="27.75" PointY="217" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.MeritsCheck" Width="1.5" PointX="7.5" PointY="225.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.MonthlySalaryRecord" Width="1.5" PointX="7.5" PointY="230.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.Montpowermission" Width="1.5" PointX="7.5" PointY="169.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.MultipleChoiceQuestion" Width="1.5" PointX="15.75" PointY="265" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.NetClientRecord" Width="1.5" PointX="9.75" PointY="176.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.NotreturningLate" Width="1.5" PointX="29.25" PointY="188.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.NurseTeamInformation" Width="1.5" PointX="32" PointY="192.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.NurseTeamonDuty" Width="1.5" PointX="4.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.NurseTeamPosition" Width="1.5" PointX="29.75" PointY="175.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.Officebuildingonduty" Width="1.5" PointX="9.75" PointY="221.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.Outbreaksindormitories" Width="1.5" PointX="21.75" PointY="205.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.OvertimeRecord" Width="1.5" PointX="15.5" PointY="180.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.ParticiParticipants" Width="1.5" PointX="24" PointY="189.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.Position" Width="1.5" PointX="3" PointY="187.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.Pricedormitoryarticles" Width="1.5" PointX="14.5" PointY="221.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.PrintGoodsApply" Width="1.5" PointX="3" PointY="228.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.Professionala" Width="1.5" PointX="4.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.ProjectGroupMember" Width="1.5" PointX="24" PointY="196.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.ProjectTasks" Width="1.5" PointX="27" PointY="229.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.ProjectType" Width="1.5" PointX="24.75" PointY="238.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.PurchaseApply" Width="1.5" PointX="13.5" PointY="192.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.PurchaseType" Width="1.5" PointX="11.25" PointY="228" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.Quarter" Width="1.5" PointX="18.5" PointY="144.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.QuestionLevel" Width="1.5" PointX="20.25" PointY="168.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.Rank" Width="1.5" PointX="6.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.ReadSweep" Width="1.5" PointX="15" PointY="234.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.Reconcile" Width="1.5" PointX="15.75" PointY="260.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.RecruitingDataSummary" Width="1.5" PointX="5.25" PointY="223.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.RecruitPhoneTrace" Width="1.5" PointX="0.75" PointY="6.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.Region" Width="1.5" PointX="10.5" PointY="163.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.RemovalRecords" Width="1.5" PointX="17.75" PointY="147.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.ReplenishmentRecord" Width="1.5" PointX="24" PointY="243.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.Restudy" Width="1.5" PointX="24" PointY="246.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.RoomPerformance" Width="1.5" PointX="20.75" PointY="161.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.Roomtype" Width="1.5" PointX="3" PointY="196.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.SalaryRaiseApply" Width="1.5" PointX="7.5" PointY="243.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.Satisfaction" Width="1.5" PointX="6.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.SatisficingConfig" Width="1.5" PointX="16.5" PointY="185.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.SatisficingItem" Width="1.5" PointX="5.25" PointY="232.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.SatisficingResult" Width="1.5" PointX="18.75" PointY="187.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.SatisficingResultDetail" Width="1.5" PointX="21" PointY="209.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.SatisficingType" Width="1.5" PointX="3" PointY="232.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.ScheduleForTrainees" Width="1.5" PointX="30" PointY="203.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.SchoolYearPlan" Width="1.5" PointX="7.5" PointY="163.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.SelfObtainRcored" Width="1.5" PointX="20.75" PointY="179.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.ShppingDetail" Width="1.5" PointX="18.75" PointY="199.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.SimulatInterview" Width="1.5" PointX="21.75" PointY="183.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.SocialSecProportion" Width="1.5" PointX="6.75" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.SocialSecurityDetail" Width="1.5" PointX="7.5" PointY="250.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.Specialty" Width="1.5" PointX="15.5" PointY="170" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.StageGrade" Width="1.5" PointX="13.25" PointY="159.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.StockInfo" Width="1.5" PointX="11.25" PointY="143.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.StrengthenClass" Width="1.5" PointX="15.75" PointY="270.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.StrengthenStu" Width="1.5" PointX="24" PointY="234.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.StuBookAcqRecords" Width="1.5" PointX="32" PointY="188.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.StudentAttendance" Width="1.5" PointX="24" PointY="259.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.StudentAwardwinning" Width="1.5" PointX="29.25" PointY="192.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.StudentFeeRecord" Width="1.5" PointX="24" PointY="263.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.StudentFeeStandard" Width="1.5" PointX="15.5" PointY="163.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.StudentInformation" Width="1.5" PointX="21.75" PointY="191.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.Studentmate" Width="1.5" PointX="33" PointY="196.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.StudentPutOnRecord" Width="1.5" PointX="16.5" PointY="190.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.StudentUnionDepartment" Width="1.5" PointX="30.75" PointY="216.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.StudentUnionMembers" Width="1.5" PointX="33" PointY="200.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.StudentUnionPosition" Width="1.5" PointX="30.75" PointY="219.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.StudnetIntention" Width="1.5" PointX="33" PointY="204.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.StuInfomationType" Width="1.5" PointX="14.25" PointY="205.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.StuStatus" Width="1.5" PointX="14.25" PointY="208.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.SubjectAchieve" Width="1.5" PointX="32.25" PointY="208.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.SurveyRecords" Width="1.5" PointX="17.75" PointY="170.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.TalentDemandPlan" Width="1.5" PointX="10.5" PointY="193.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.TeacheMitoryonduty" Width="1.5" PointX="9.75" PointY="224.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.Teacher" Width="1.5" PointX="7.5" PointY="264.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.TeacherNight" Width="1.5" PointX="9.75" PointY="257.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.TecharOnstageBearing" Width="1.5" PointX="12.75" PointY="274" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.TestScore" Width="1.5" PointX="29.25" PointY="234.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.TextAnswer" Width="1.5" PointX="32.25" PointY="233.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.Timestamp" Width="1.5" PointX="24" PointY="217.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.TotaleCharges" Width="1.5" PointX="8.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.Transfer" Width="1.5" PointX="35" PointY="192.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.Trialapplication" Width="1.5" PointX="26.25" PointY="224" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.Undergra" Width="1.5" PointX="30" PointY="209.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="Coldairarrow.Fx.Net.Easyui.GitHubModel.UnemployedStudent" Width="1.5" PointX="37.5" PointY="206.375" IsExpanded="true" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_ACCDATIO_REFERENCE_DORMINFO" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_ACCDATIO_REFERENCE_STUDENTI" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_NOTRETUR_REFERENCE_ACCDATIO" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_ADDCOURS_REFERENCE_CLASSSCH" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_ADDCOURS_REFERENCE_TEACHER" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_ADMISSAR_REFERENCE_CLASSSCH" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_ANSWERQU_REFERENCE_ANSWERQU" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_ANSWERQU_REFERENCE_CURRICUL" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_ANSWERQU_REFERENCE_QUESTION" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_ANSWERQU_REFERENCE_TEACHER" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_ANSWERQU_REFERENCE_EXAMINAT" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_TEXTANSW_REFERENCE_ANSWERQU" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_APPLICAT_REFERENCE_STUDENTI2" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_CLASSDYN_REFERENCE_APPLICAT2" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_DETAILSO_REFERENCE_APPLICAT" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_DETAILSO_REFERENCE_APPLICAT2" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_APPLICAT_REFERENCE_CLASSSCH" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_APPLICAT_REFERENCE_STUDENTI" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_CLASSDYN_REFERENCE_APPLICAT" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_APPLYFOR_REFERENCE_EMPLOYEE" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_ASSMEETI_REFERENCE_CLASSSCH" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_ATTENDAN_REFERENCE_EMPLOYEE" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_AWARDWIN_REFERENCE_STUDENTI" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_STUDENTA_REFERENCE_AWARDWIN" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_BREAK_REFERENCE_BASEDATA" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_CLASSSCH_REFERENCE_BASEDATA" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_COURSETI_REFERENCE_BASEDATA" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_NURSETEA_REFERENCE_BASEDATA" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_CLASSDYN_REFERENCE_BASICDAT" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_STUDENTI_REFERENCE_BASICDAT" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_BEDROOM_REFERENCE_DORMINFO" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_BEDROOM_REFERENCE_EMPLOYEE" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_BEDROOM_REFERENCE_STUDENTI" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_CLASSTEA_REFERENCE_BEONDUTY" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_OVERTIME_REFERENCE_BEONDUTY" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_TEACHERN_REFERENCE_BEONDUTY" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_BOOKINFO_REFERENCE_STAGEGRA" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_BOOKINFO_REFERENCE_STOCKINF" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_STUBOOKA_REFERENCE_BOOKINFO" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_BREAK_REFERENCE_CLASSROO" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_BREAK_REFERENCE_CLASSSCH" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_BREAK_REFERENCE_EMPLOYEE" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_CANCELLE_REFERENCE_LEAVEREQ" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_CANDIDAT_REFERENCE_EXAMINAT" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_CANDIDAT_REFERENCE_STUDENTI" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_CHOOSEAN_REFERENCE_CANDIDAT" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_EXAMROOM_REFERENCE_CANDIDAT" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_TESTSCOR_REFERENCE_CANDIDAT" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_TEXTANSW_REFERENCE_CANDIDAT" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_CARDREGI_REFERENCE_STUDENTI" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_CDINTERV_REFERENCE_SPECIALT" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_CDINTERV_REFERENCE_SURVEYRE" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_CHANNELS_REFERENCE_EMPLOYEE" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_CHANNELY_REFERENCE_CHANNELS" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_EMPLOYEE_CHANNELST_CHANNELS" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_EMPLOYEE_REFERENCE_CHANNELS" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_NETCLIEN_REFERENCE_CHANNELS" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_CHANNELY_REFERENCE_SCHOOLYE" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_CHECK_REFERENCE_EMPLOYEE" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_CHECK_REFERENCE_PURCHASE" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_CHECKGOO_REFERENCE_CHECK" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_INSTOCK_REFERENCE_CHECK" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_ISGOODOR_REFERENCE_CHECK" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_CHECKGOO_REFERENCE_GOODS" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_CHOICEQU_REFERENCE_EXAMINAT" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_CHOICEQU_REFERENCE_MULTIPLE" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_CHOOSEAN_REFERENCE_CHOICEQU" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_CLASSACT_REFERENCE_CLASSSCH" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_CLASSDYN_REFERENCE_RESTUDY" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_CLASSDYN_REFERENCE_STUDENTI" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_CLASSDYN_REFERENCE_TRANSFER" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_CLASSDYN_REFERENCE_TRIALAPP" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_CLASSMEE_REFERENCE_TEACHER" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_CLASSMEM_REFERENCE_CLASSSCH" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_CLASSMEM_REFERENCE_MEMBERS" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_CLASSMEM_REFERENCE_STUDENTI" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_CLASSROO_REFERENCE_CLASSROO" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_EXAMINAT_REFERENCE_CLASSROO" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_RECONCIL_REFERENCE_CLASSROO" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_ROOMPERF_REFERENCE_CLASSROO" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_CLASSROO_REFERENCE_EQUIPMEN" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_CLASSSCH_REFERENCE_STAGEGRA" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_CLASSTEA_REFERENCE_CLASSSCH" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_CONVERTC_REFERENCE_CLASSSCH" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_EMPCLASS_REFERENCE_CLASSSCH" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_EMPQUART_REFERENCE_CLASSSCH" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_GROUPMAN_REFERENCE_CLASSSCH" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_HEADCLAS_REFERENCE_CLASSSCH" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_RECONCIL_REFERENCE_CLASSSCH" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_REMOVALR_REFERENCE_CLASSSCH" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_ROOMPERF_REFERENCE_CLASSSCH" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_SATISFIC_REFERENCE_CLASSSCH" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_SCHEDULE_REFERENCE_CLASSSCH" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_TEACHERN_REFERENCE_CLASSSCH" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_TRANSFER_REFERENCE_CLASSSCH" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_TRIALAPP_REFERENCE_CLASSSCH" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_CLASSSTU_REFERENCE_STUDENTI" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_GROUPMEM_REFERENCE_CLASSSTU" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_CLASSTEA_REFERENCE_CURRICUL" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_CLASSTEA_REFERENCE_TEACHER" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_CLASSTEA_REFERENCE_HEADMAST" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_CONSULT_REFERENCE_CONSULTT" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_CONSULT_REFERENCE_STUDENTP" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_FOLLWING_REFERENCE_CONSULT" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_CONSULTT_REFERENCE_EMPLOYEE" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_CONVERSA_REFERENCE_EMPLOYEE" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_CONVERTC_REFERENCE_TEACHER" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_CONVERTC_REFERENCE_TEACHER2" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_COOPERAE_REFERENCE_ENTERPRI" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_DETAILED_REFERENCE_COSTLIST" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_RECONCIL_REFERENCE_COURSETI" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_CURRICUL_REFERENCE_COURSETY" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_CURRICUL_REFERENCE_GRAND" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_CURRICUL_REFERENCE_SPECIALT" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_GOODSKIL_REFERENCE_CURRICUL2" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_MACHTEST_REFERENCE_CURRICUL" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_MULTIPLE_REFERENCE_CURRICUL" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_RECONCIL_REFERENCE_CURRICUL" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_SATISFIC_REFERENCE_CURRICUL" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_STRENGTH_REFERENCE_CURRICUL" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_DEBIT_REFERENCE_EMPLOYEE" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_POSITION_REFERENCE_DEPARTME" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_PRINTGOO_REFERENCE_DEPARTME" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_SATISFIC_REFERENCE_DEPARTME" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_TALENTDE_REFERENCE_DEPARTME" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_DETAILED_REFERENCE_DORMITOR" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_DETAILED_REFERENCE_PRICEDOR" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_DETAILED_REFERENCE_STUDENTF" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_DETAILED_REFERENCE_STUDENTI" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_DETAILSO_REFERENCE_STUBOOKA" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_ENROLLME_REFERENCE_DETAILSO" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_DETAILSO_REFERENCE_STUDENTM" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_DIMISSIO_REFERENCE_EMPLOYEE" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_DISPOSAL_REFERENCE_STUDENTI" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_DORMINFO_REFERENCE_DORMITOR" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_DORMINFO_REFERENCE_ROOMTYPE" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_DORMITOR_REFERENCE_DORMINFO" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_DORMITOR_REFERENCE_DORMINFO3" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_DORMITOR_REFERENCE_DORMINFO4" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_MONTPOWE_REFERENCE_DORMINFO" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_DORMITOR_REFERENCE_ELECTRIC" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_DORMITOR_REFERENCE_INSTRUCT" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_EMPCLASS_REFERENCE_EMPLOYME" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_EMPLOYED_REFERENCE_EMPLOYSI" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_EMPLOYEE_REGIONAND_REGION" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_EMPLOYEE_REFERENCE_EMPLOYEE2" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_EMPLOYEE_REFERENCE_POSITION" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_EMPLOYME_REFERENCE_EMPLOYEE" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_EMPLSALA_REFERENCE_EMPLOYEE" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_GOODSPRO_REFERENCE_EMPLOYEE" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_HEADMAST_REFERENCE_EMPLOYEE" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_INSTOCK_REFERENCE_EMPLOYEE" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_INSTRUCT_REFERENCE_EMPLOYEE" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_JOBTRANS_REFERENCE_EMPLOYEE" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_LEAVEREQ_REFERENCE_EMPLOYEE" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_MARKETCH_REFERENCE_EMPLOYEE" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_MERITSCH_REFERENCE_EMPLOYEE" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_MONTHLYS_REFERENCE_EMPLOYEE" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_NETCLIEN_REFERENCE_EMPLOYEE" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_OVERTIME_REFERENCE_EMPLOYEE" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_PURCHASE_REFERENCE_EMPLOYEE" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_SALARYRA_REFERENCE_EMPLOYEE" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_SATISFIC_REFERENCE_EMPLOYEE" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_SOCIALSE_REFERENCE_EMPLOYEE" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_STUDENTP_REFERENCE_EMPLOYEE" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_STUDENTP_REFERENCE_EMPLOYEE2" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_TALENTDE_REFERENCE_EMPLOYEE" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_TEACHER_REFERENCE_EMPLOYEE" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_EMPLOYME_REFERENCE_EMPLOYME" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_STUDNETI_REFERENCE_EMPLOYME" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_EMPSTAFF_REFERENCE_EMPLOYME" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_ENTERPRI_REFERENCE_EMPLOYME" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_SELFOBTA_REFERENCE_EMPLOYME" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_SIMULATI_REFERENCE_EMPLOYME" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_SURVEYRE_REFERENCE_EMPLOYME" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_EMPLOYSI_REFERENCE_STUDNETI" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_UNEMPLOY_REFERENCE_EMPLOYSI" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_EMPQUART_REFERENCE_QUARTER" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_EMPSTAFF_REFERENCE_STUDNETI" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_ENROEXAM_REFERENCE_STUDENTI" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_ENROLLME_REFERENCE_STUDENTI2" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_SUBJECTA_REFERENCE_ENROLLME" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_ENTSPEE_REFERENCE_ENTERPRI" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_ENTSPEE_REFERENCE_SPECIALT" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_EXAMINAT_REFERENCE_EXAMINAT" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_EXAMINAT_REFERENCE_EXAMINAT2" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_EXAMROOM_REFERENCE_EXAMINAT" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_TESTSCOR_REFERENCE_EXAMINAT" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_EXAMINAT_REFERENCE_EXAMTYPE" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_EXAMINAT_REFERENCE_QUESTION" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_MACHINET_REFERENCE_EXAMINAT" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_EXAMINAT_REFERENCE_HEADMAST" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_EXAMINAT_REFERENCE_HEADMAST2" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_READSWEE_REFERENCE_EXAMINAT" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_EXAMTYPE_REFERENCE_GRAND" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_FIVEROUT_REFERENCE_HEADMAST" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_INSTOCKG_REFERENCE_GOODS" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_ISGOODOR_REFERENCE_GOODS" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_SHPPINGD_REFERENCE_GOODS" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_STOCKINF_REFERENCE_GOODS" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_GOODSKIL_REFERENCE_TEACHER" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_GOODSPRO_REFERENCE_STOCKINF" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_STOCKINF_REFERENCE_GOODSTYP" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_STAGEGRA_REFERENCE_GRAND" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_TECHARON_REFERENCE_GRAND" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_GROUPMEM_REFERENCE_STUDENTI" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_HEADCLAS_REFERENCE_HEADMAST" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_INTERVIE_REFERENCE_HEADMAST" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_HOMEWORK_REFERENCE_STUDENTI" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_HOMEWORK_REFERENCE_TEACHER" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_INSTOCKG_REFERENCE_INSTOCK" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_INSTRUCT_REFERENCE_INSTRUCT" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_OFFICEBU_REFERENCE_INSTRUCT" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_TEACHEMI_REFERENCE_INSTRUCT" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_INTERVIE_REFERENCE_STUDENTI2" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_INTERVIE_REFERENCE_STUDENTI" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_LATEENTR_REFERENCE_STUDENTI" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_LATESUBM_REFERENCE_STUDENTI" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_LEAVEREQ_REFERENCE_LEAVETYP" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_MACHINET_REFERENCE_MACHTEST" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_MACHTEST_REFERENCE_QUESTION" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_MACHTEST_REFERENCE_TEACHER" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_STUDENTM_REFERENCE_MATERIAL" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_MULTIPLE_REFERENCE_QUESTION" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_MULTIPLE_REFERENCE_TEACHER" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_NURSETEA_REFERENCE_NURSETEA" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_NURSETEA_REFERENCE_STUDENTI" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_PARTICIP_REFERENCE_OUTBREAK" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_PARTICIP_REFERENCE_STUDENTI" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_RECRUITI_REFERENCE_POSITION" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_TALENTDE_REFERENCE_POSITION" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_PROJECTG_REFERENCE_PROJECTT" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_PROJECTG_REFERENCE_STUDENTI" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_PROJECTT_REFERENCE_PROJECTT" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_PROJECTT_REFERENCE_STUDENTI" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_PROJECTT_REFERENCE_TEACHER" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_PURCHASE_REFERENCE_PURCHASE" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_SHPPINGD_REFERENCE_PURCHASE" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_READSWEE_REFERENCE_TEACHER" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_RECONCIL_REFERENCE_TEACHER" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_REPLENIS_REFERENCE_STUDENTI" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_RESTUDY_REFERENCE_STUDENTI" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_SATISFIC_REFERENCE_SATISFIC3" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_SATISFIC_REFERENCE_SATISFIC" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_SATISFIC_REFERENCE_SATISFIC2" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_SATISFIC_REFERENCE_SATISFIC4" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_SATISFIC_REFERENCE_STUDENTI" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_SCHEDULE_REFERENCE_STUDENTI" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_SELFOBTA_REFERENCE_STUDENTI" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_SIMULATI_REFERENCE_STUDENTI" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_STAGEGRA_REFERENCE_SPECIALT" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_SURVEYRE_REFERENCE_SPECIALT" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_TECHARON_REFERENCE_SPECIALT" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_STUDENTF_REFERENCE_STAGEGRA" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_STRENGTH_REFERENCE_STRENGTH" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_STRENGTH_REFERENCE_TEACHER" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_STRENGTH_REFERENCE_STUDENTI" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_STUBOOKA_REFERENCE_STUDENTI" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_STUDENTA_REFERENCE_STUDENTI" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_TRIALAPP_REFERENCE_STUDENTA" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_STUDENTA_REFERENCE_STUDENTI2" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_STUDENTF_REFERENCE_STUDENTI" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_STUDENTI_REFERENCE_STUDENTP" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_STUDENTM_REFERENCE_STUDENTI" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_STUDENTU_REFERENCE_STUDENTI" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_STUDNETI_REFERENCE_STUDENTI" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_SURVEYRE_REFERENCE_STUDENTI" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_TRANSFER_REFERENCE_STUDENTI" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_TRIALAPP_REFERENCE_STUDENTI" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_STUDENTP_REFERENCE_STUINFOM" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_STUDENTP_REFERENCE_STUSTATU" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_STUDENTU_REFERENCE_STUDENTU2" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_STUDENTU_REFERENCE_STUDENTU" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_SUBJECTA_REFERENCE_UNDERGRA" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_TEACHERN_REFERENCE_TEACHER" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_TECHARON_REFERENCE_TEACHER" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_TESTSCOR_REFERENCE_TEACHER" ManuallyRouted="false" />
+        <AssociationConnector Association="Coldairarrow.Fx.Net.Easyui.GitHubModel.FK_TRIALAPP_REFERENCE_TIMESTAM" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
